@@ -1,4 +1,4 @@
-const PASSWORD = "Timon-RAK26<3";
+const PASSWORD = "Timon-RAK26";
 const DRIVE_URL = "https://drive.google.com/drive/folders/1LhqKEuEBB1VigBQqTvXKtk_qTN3x_bZx?usp=sharing";
 const SESSION_KEY = "rak26-unlocked";
 
